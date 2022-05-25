@@ -1,0 +1,1 @@
+Program accepts two input strings ang checks if they are anagrams

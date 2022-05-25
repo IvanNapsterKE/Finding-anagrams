@@ -5,7 +5,13 @@
 
 
 def find_anagrams(word):
-    # [assignment] Add your code here
+    
+    str1 = input("First word: ")
+    str2 = input("Second word: ")
+    
+    return sorted(str1) == sorted(str2)  
 
-    return True
+print(find_anagrams("word"))
+
+
 
